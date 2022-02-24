@@ -1,0 +1,702 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Krypteuchologia, or, A plain answer to this practical question, what course may a Christian take to have his heart quickned and enlarged in the duty of secret prayer? by Richard Mayo ...</title>
+            <author>Mayo, Richard, 1631?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50464</idno>
+            <idno type="STC">Wing M1524</idno>
+            <idno type="STC">ESTC R9146</idno>
+            <idno type="EEBO-CITATION">12995365</idno>
+            <idno type="OCLC">ocm 12995365</idno>
+            <idno type="VID">96400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 391:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Krypteuchologia, or, A plain answer to this practical question, what course may a Christian take to have his heart quickned and enlarged in the duty of secret prayer? by Richard Mayo ...</title>
+                  <author>Mayo, Richard, 1631?-1695.</author>
+               </titleStmt>
+               <extent>[4], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Maxwel for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title transliterated from Greek.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96400:1" rendition="simple:additions"/>
+            <p>ΚΡΥΠΤΕΥΧΟΛΟΓΙΑ: Or, A Plain ANSWER To this Practical Queſtion, <hi>What courſe may a Chriſtian take to have his Heart quickned and enlarged in the Duty of</hi> Secret Prayer?</p>
+            <p>By RICHARD MAYO. late of <hi>Kingſton</hi> upon <hi>Thames.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſalm 80.18.</hi>
+               </bibl> Quicken us, O Lord, and we will call upon thy Name.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Maxwel</hi> for <hi>Thomas Park<g ref="char:EOLhyphen"/>hurſt,</hi> at the Sign of the <hi>Three Crowns</hi> at the lower end of <hi>Cheapſide.</hi> 1664.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96400:2" rendition="simple:additions"/>
+            <pb facs="tcp:96400:2" rendition="simple:additions"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I Was the more willing to print this Letter (though penn'd at firſt for the cloſet of a particular friend, and not in a fit dreſs to come abroad) be<g ref="char:EOLhyphen"/>cauſe it contains an Anſwer to a Que<g ref="char:EOLhyphen"/>ſtion that every Chriſtian is ready to ask, and none (ſo far as I can learn) did ever yet undertake to reſolve; or if any have obliquely touched it, never any did directly handle it.</p>
+            <p>A ſmall Structure muſt not have a great Porch: I ſhall onely ſuggeſt theſe two praeliminary Exhortations.</p>
+            <p n="1">
+               <hi>1.</hi> Be much in the duty of ſecret Prayer; be as conſtant at it as at your
+<note n="a" place="margin">
+                  <p>Morn<g ref="char:EOLhyphen"/>ing, even<g ref="char:EOLhyphen"/>ing, and noon-daye So <hi>David.</hi>
+                  </p>
+                  <p>
+                     <hi>Joachim</hi> the father of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> uſed to ſay, That Prayer was his meat and drink. See <hi>Daniels</hi> practice, <hi>Dan.</hi> 6.10.</p>
+               </note> meals. Amongſt many motives, this is one, 'Tis a Duty wherein God doth ordinarily make the greateſt diſcoveries of himſelf. <hi>Joſeph</hi> and his brethren were alone when he made himſelf known to them. The ſecrets of the Lord are uſually revealed unto his people when they are ſeeking him in ſecret; then 'tis, that he gives them his
+<note n="b" place="margin">O anima ſancta ſola eſto, anne neſcis ve<g ref="char:EOLhyphen"/>recundum te habere ſponſum?</note> loves, when
+<pb facs="tcp:96400:3" rendition="simple:additions"/>they fall down upon their knees unto him, he falls upon their necks and kiſſeth them.
+<note n="c" place="margin">Nunquam <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo<g ref="char:EOLhyphen"/>lus, quam <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſolus.</note> They are never leſs alone then when alone.</p>
+            <p n="2">
+               <hi>2.</hi> Be warm and lively in the Duty. A dead Prayer is no more accepted with God, then of old the offering up of a beaſt that was found dead in a ditch. The Aſs under the Law was not to be offered unto God, but his neck must be broke; not that God was angry with that creature which was the workmanſhip of his hands, but to ſhew how diſtaſtfull a dull and a dead heart is to him in his ſervice. Sometimes Chriſtians go to Pray<g ref="char:EOLhyphen"/>er as ſick perſons to their meals, becauſe they muſt eat, and 'tis dinner-time, and the like; not that they deſire or delight in their food, or find any refreſhment thereby. If it be thus with thee in re<g ref="char:EOLhyphen"/>ference to Prayer, thou art greatly di<g ref="char:EOLhyphen"/>ſtempered, thy condition is very dange<g ref="char:EOLhyphen"/>rous, therefore look out ſpeedily for help. May this following Letter contribute ſomething thereunto: the Lord ſet in with it for that end.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96400:3" rendition="simple:additions"/>
+            <head>A Plain ANSWER To this Practical Queſtion, <hi>What courſe may a Chriſtian take to have his heart quickned and enlarged in the Duty of Secret Prayer?</hi>
+            </head>
+            <opener>
+               <salute>Chriſtian Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Queſtion ſavours of a Spirit truly gracious. It ſuppoſeth you already convinced of, and per<g ref="char:EOLhyphen"/>ſwaded to the practice of that neceſſary, though neglected, Duty of Secret Prayer. It ſhews you do not take up with a bare performance of Duty, as too many do, not caring how or in what manner it be performed. It argues you would preſent God with the <hi>male of your flock,</hi> and not put him off
+<pb n="2" facs="tcp:96400:4" rendition="simple:additions"/>
+               <hi>with a corrupt thing.</hi> Theſe are good ſigns of ſincerity.</p>
+            <p>I could heartily wiſh that all Chri<g ref="char:EOLhyphen"/>ſtians would follow your example, to propoſe ſuch profitable queſtions as may promote piety, and to avoid <hi>ſuch
+<note n="a" place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> fooliſh queſtions as do engender ſtrifes.</hi>
+            </p>
+            <p>I would not be wanting to you in ſo pious a requeſt, as this is: And oh that I could ſay, that
+<note n="b" place="margin">1 Joh. c. 3.</note> 
+               <hi>What I here declare unto you I have ſeen and felt my ſelf;</hi> that what is here expreſt, is the ſame which I my ſelf have experienc'd.</p>
+            <p>It is beſides your deſire and my de<g ref="char:EOLhyphen"/>ſign to write concerning the duty of ſecret Prayer at large; to open the na<g ref="char:EOLhyphen"/>ture of it, to ſhew the neceſſity of it, to lay down Arguments to move you to it, to adviſe in what manner you ſhould manage it, namely, with faith, with ſervency, with humility, with ſincerity, with conſtancy, with watchfulneſs, in the Spirit, and the like: this work is done to my hand in many Treatiſes, and thoſe extant, ſome of them,
+<note n="c" place="margin">
+                  <hi>Cobbet</hi> his practi<g ref="char:EOLhyphen"/>cal diſ<g ref="char:EOLhyphen"/>courſe of Prayer. <hi>Philip Goodwin</hi> his Family Religion revived. from <hi>pag.</hi> 149 to <hi>p</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>15.</note> in our own Language. I ſhall therefore ſtrict<g ref="char:EOLhyphen"/>ly keep to the Queſtion propounded, which I acknowledge is of greateſt con<g ref="char:EOLhyphen"/>cernment. God is a living God, and
+<pb n="3" facs="tcp:96400:4" rendition="simple:additions"/>they that worſhip him muſt worſhip him with warmth and
+<note n="d" place="margin">
+                  <hi>Ejuſmodi cultum probat De<g ref="char:EOLhyphen"/>us qui ejus naturae congruit. Cal. in</hi> Joh. 4 23.</note> life; ſuch ſup<g ref="char:EOLhyphen"/>plaints he ſeeketh after.</p>
+            <p>Meet helps then in this caſe are ſuch as follow,</p>
+            <p n="1">1. Remember to obſerve the fitteſt ſeaſons for the performance of this du<g ref="char:EOLhyphen"/>ty. Though a Chriſtian is to pray at all times, yet at all times he is not alike ſit for Prayer. This you find by experi<g ref="char:EOLhyphen"/>ence<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> As many a fair Child is loſt by an untimely birth, ſo many a good duty is marr'd by an undue timing of it.</p>
+            <p>Of many apt ſeaſons, I ſhall men<g ref="char:EOLhyphen"/>tion theſe three.</p>
+            <p n="1">1. When you meet with any new occurrence of Providence. Every freſh diſpenſation of Providence is a provo<g ref="char:EOLhyphen"/>cation unto Prayer. When any afflicti<g ref="char:EOLhyphen"/>on befals thee, then fall down before God, and humble thy ſelf under his af<g ref="char:EOLhyphen"/>flicting hand.
+<note n="e" place="margin">Jam. 5.13 <hi>Praeſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tim cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<g ref="char:EOLhyphen"/>dum eſt quoties a<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quá re<g ref="char:EOLhyphen"/>rum an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſtia, aut ipſi premimur, aut premi alio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> videmus, ut ad D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um citatis, non pedibus, ſed animis recurr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mus. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inde, ae quam aut noſtram aut aliorum proſpcritatem praeterire ſimamus; quin laude, ac gratiarum action<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ma<g ref="char:EOLhyphen"/>num ejus agnoſcere nos teſtemur. Cal. Inſtit. lib.</hi> 3.</note> 
+               <hi>Is any amongſt you af<g ref="char:EOLhyphen"/>flicted? let him pray,</hi> ſays the Apoſtle; that is, let him then do it more eſpecial<g ref="char:EOLhyphen"/>ly, then there is a fit opportunity for it.</p>
+            <p>
+               <pb n="4" facs="tcp:96400:5" rendition="simple:additions"/>Again, when any freſh mercy is con<g ref="char:EOLhyphen"/>ferred upon thee, then it is a fit ſeaſon to go aſide and to acknowledge thine unworthineſs, and to expreſs thy thank<g ref="char:EOLhyphen"/>fulneſs. See an excellent inſtance for this in 2 <hi>Sam.</hi> 7.18. the words are theſe, Then went King <hi>David</hi> in, and ſat be<g ref="char:EOLhyphen"/>fore the Lord, and ſaid, <hi>Who am I, O Lord God, and what is my houſe, that thou haſt brought me hitherto?</hi> Mark that particle, <hi>then.</hi> Why when was it? See the foregoing Verſe, When God by <hi>Nathan</hi> had made many promiſes, and that of great mercies to him, then he went in, and ſat before the Lord, and ſaid, Who am I? <hi>&amp;c.</hi>
+            </p>
+            <p>The Reader may dilate his thoughts upon this, and the following particu<g ref="char:EOLhyphen"/>lars: I intend onely brief hints.</p>
+            <p n="2">2. When you find the Spirit of God moving upon your Soul, and exciting you to the duty; then it is a fit ſeaſon for it: Now God calls upon you to come and converſe with him, he in<g ref="char:EOLhyphen"/>vites you now to communion with him<g ref="char:EOLhyphen"/>ſelf. Think at ſuch a time, that the Lord beſpeaks you in ſuch a manner as he doth the Spouſe, <hi>Cant.</hi> 2.10. <hi>Riſe up my love, my fair one, and come away.</hi>
+               <pb n="5" facs="tcp:96400:5" rendition="simple:additions"/>Or as 'tis Verſ. 14. <hi>Come, let me hear thy voice, for it is ſweet.</hi> To pray at ſuch a ſeaſon is to hoiſe up ſail before the wind; it is like rowing both with wind and tide. Being thus excited by the Spi<g ref="char:EOLhyphen"/>rit, you may expect the aſſiſtance of it: if Prayer be now neglected, the Spirit of God is quenched; and I'le pronounce him a novice in Religion, or rather a ſtranger to it altogether, that doth not confeſs it neceſſary to the lively per<g ref="char:EOLhyphen"/>formance of this Duty, that the Spirit of God doth act and quicken him therein. Our motions are exceeding dull and heavy in holy Duties, when the Spirit of God <hi>doth not help our infir<g ref="char:EOLhyphen"/>mities.</hi> Whenſoever therefore God ſays by the ſecret whiſperings of his Spi<g ref="char:EOLhyphen"/>rit,
+<note n="f" place="margin">Pſ. 27 6.</note> 
+               <hi>Seek ye my face,</hi> our hearts ſhould anſwer and eccho back as <hi>Davids</hi> did, <hi>Thy face, O Lord, we will ſeek.</hi>
+            </p>
+            <p>Yet here I would have it remem<g ref="char:EOLhyphen"/>bred, I do not ſay a Chriſtian ſhould never pray, but when he finds the Spi<g ref="char:EOLhyphen"/>rit of God egging him forward; this hath been the groſs miſtake of ſome, who hereupon have diſcontinued the duty for ſeveral days together, becauſe they have not perceived the Spirit mo<g ref="char:EOLhyphen"/>ving
+<pb n="6" facs="tcp:96400:6" rendition="simple:additions"/>them thereunto: No; let this be thy practice, to wait upon God in his way, and it may be the Spirit of God will meet thee therein. Know this, though the Spirit of God ſhould not put forth his hand to lead thee, yet the Word of God holds forth a precept to command thee, and ſet thou about the Duty out of pure obedience to the com<g ref="char:EOLhyphen"/>mand of God. It may be ere thou art aware, <hi>thou wilt, find Him whom thy ſoul deſires.</hi> Though the Spirits aſſiſt<g ref="char:EOLhyphen"/>ance be never unwelcome to a Child of God, yet many times it comes un<g ref="char:EOLhyphen"/>expected. <hi>Abraham</hi> ſaw not the Ram for the ſacrifice till he was in the Mount: Often in the Mount in the time of Prayer, the Spirit of the Lord is ſeen and felt. Mariners have put forth to ſea in a calm, when they have made but little way, and anon they have met with freſh and unexpected gales of wind, that have brought them with full ſail to their deſired haven. I leave you to apply it.</p>
+            <p>Again, I do not deny but the evil ſpirit who is Gods Ape, may ſometimes transform himſelf into the likeneſs of Gods Spirit, and may excite a Chriſtian
+<pb n="7" facs="tcp:96400:6" rendition="simple:additions"/>to this duty: but then his motions are irregular, and unſeaſonable; they tend to the hindering of him from another, and (for that time) a more ſeaſonable duty; ſuppoſe it a work of mercy to himſelf, or others, or ſuch like. Chri<g ref="char:EOLhyphen"/>ſtian exerciſes muſt be wiſely ſubordi<g ref="char:EOLhyphen"/>nated one to another; whereas the De<g ref="char:EOLhyphen"/>vil deſires to make them interfere, and to ſet them at variance.</p>
+            <p n="3">3. When we find our hearts in a ſet<g ref="char:EOLhyphen"/>led and compoſed frame, then alſo it is a ſit ſeaſon for ſecret Prayer, when (
+<note n="g" place="margin">Pſ. 57.7.</note> as <hi>David's</hi>) <hi>our hearts are fixt,</hi> and not pre-occupied with any ſecular matters. To pray at another time is like playing upon an Inſtrument that is out of tune; what harſh and unpleaſing melody doth it make? Many when they go to ſeek God, they have their heart to ſeek. Few can ſay with <hi>David</hi> that
+<note n="h" place="margin">2 Sam. 7.27. In the Hebrew tis onely, <hi>the found to pray.</hi>
+               </note> 
+               <hi>they have ſound their hearts to pray.</hi> We render it <hi>he found in his heart,</hi> but it may be read, <hi>he found his heart</hi> to pray a prayer unto God.</p>
+            <p>
+               <note n="i" place="margin">It was the cuſtome of the Hea<g ref="char:EOLhyphen"/>thens to addreſs themſelves in the morning early to their Idols <hi>vid. Herod. l.</hi> 10. The Primitive Chriſtians were wont to be early at their devotions. <hi>Vid. Pl. ep.</hi> 57. <hi>ad Trajan. Ter<g ref="char:EOLhyphen"/>tul. Apol. c.</hi> 2. See Chriſts practice <hi>Marc.</hi> 1.35. <hi>Qui mene ſurgit precandi cauſa dicit manicare Deum. Druſ.</hi>
+               </note> Uſually in the morning the mind is
+<pb n="8" facs="tcp:96400:7" rendition="simple:additions"/>moſt compoſed; then a man meets with leaſt diverſions in duty; the even<g ref="char:EOLhyphen"/>ings repoſe hath in great part diſchar<g ref="char:EOLhyphen"/>ged the mind of all that did diſtract it: and it were well if we would be with God as ſoon as we awake: if we did of<g ref="char:EOLhyphen"/>fer up to him the firſt-fruits of every day; if as ſoon as we lift our bodies off our beds, we did in Prayer lift up our ſouls to God. This was <hi>Davids</hi> man<g ref="char:EOLhyphen"/>ner, <hi>Pſal.</hi> 5.3.</p>
+            <p>Under this Head I will ſuggeſt theſe three cautionary Rules.</p>
+            <p n="1">1. Do not take Prayer in hand when you have any other matter in hand: if ſo, you <hi>attendance upon God</hi> muſt needs be <hi>with diſtraction,</hi> and your heart will be ſtollen from you do what you can. Set by all worldly occaſions when you ſet about this duty: ſay to them as
+<note n="k" place="margin">Gen. 22 5</note> 
+               <hi>Abraham</hi> did to his young men, <hi>Stay you here while I go aſide to worſhip God.</hi>
+            </p>
+            <p n="2">2. Do not ordinarily go to prayer when your anger is ſtirred, and your mind full of perturbations; if you do, tis ten to one but you will offer up the <hi>ſacrifice of a fool,</hi> and <hi>ſpeak unadviſed<g ref="char:EOLhyphen"/>ly with your lips.</hi> The
+<note n="l" place="margin">1 Tim. 2.8.</note> Apoſtles advice is, that <hi>we lifts up to God holy hands
+<pb n="9" facs="tcp:96400:7" rendition="simple:additions"/>without wrath.
+<note n="m" place="margin">1 King. 19.11.12.</note> God was not in the Wind, nor in the Earthquake, nor in the fire that paſſed by Elijah, but in the ſtill ſmall voice.</hi> And you muſt be of ſtill and quiet ſpirits, if you will ſee, or find him.</p>
+            <p n="3">3. Do not uſually engage in Prayer when you are enclin'd to ſleep &amp; drow<g ref="char:EOLhyphen"/>ſineſſe; if ſo, you are like to make but dull and drowſie work of it.
+<note n="n" place="margin">Mat. 26.40.41.</note> The re<g ref="char:EOLhyphen"/>bukes of Chriſt could not awaken his Diſciples to Prayer when there hearts <hi>were heavy and aſleep.</hi> You muſt be wakefull when you pray, if you would <hi>watch unto Prayer.</hi>
+            </p>
+            <p n="2">2. A ſecond Help is this. Allot and ſet out a due proportion of time for this Duty. It is not enough to chooſe a ſit time for Prayer, but you muſt allow ſufficient time to Prayer. No ſervice whether ſecular, or ſpiritual can be done well, unleſs you allow a due propor<g ref="char:EOLhyphen"/>tion of time for the doing of it. How is Prayer huddled and ſlubbered over many times, for want of this? you think of making an end as ſoon as you begin, you are ſtraightned in your pray<g ref="char:EOLhyphen"/>ers, becauſe you are ſtraightned in your time.</p>
+            <p>
+               <hi>Qu.</hi> If you ſhould ask, How much
+<pb n="10" facs="tcp:96400:8" rendition="simple:additions"/>time muſt a Chriſtian ſet apart in a day for ſecret Prayer?</p>
+            <p>
+               <hi>Anſ.</hi> In my anſwer, I muſt have re<g ref="char:EOLhyphen"/>ſpect to the callings, and conditions of Chriſtians; that time is ſufficient for one, which is not ſufficient for ano<g ref="char:EOLhyphen"/>ther. 'Tis obſervable that under the Law there were different ſacrifices for the rich, and for the poor: God required that mens ſacrifices, ſhould hold ſome proportion with their abilities. And by parity of reaſon, God looks that the rich, and thoſe that have little elſe to doe, ſhould double the time of the poor in Prayer, and of thoſe whoſe callings call for their continuall attendance.</p>
+            <p>And yet I muſt add this too, let a mans condition be never ſo mean, and let his imployment be never ſo urgent, it it will not be a ſufficient Apology for his neglecting, or curtailing the duty of Prayer.
+<note n="o" place="margin">Col. 4.2. comp. with 5.</note> 
+               <hi>Time muſt be redeem'd,</hi> and that for this very end, to hold com<g ref="char:EOLhyphen"/>munion with God in this Duty.</p>
+            <p>This premiſed I come to the Queſti<g ref="char:EOLhyphen"/>on, wherein I may not be poſitive, that would be an unwarrantable preſumpti<g ref="char:EOLhyphen"/>on. I have often thought that one hour in four and twenty, is as little as
+<pb n="11" facs="tcp:96400:8" rendition="simple:additions"/>any one can ſet apart for ſecret Prayer.
+<note n="p" place="margin">
+                  <hi>Luther</hi> ſpent 3 hours in Prayer e<g ref="char:EOLhyphen"/>very day. ſee <hi>Vitus Theod. in vita ejus.</hi> Judge <hi>Coo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> adviſed to 4 in a day <hi>Sex horas ſomno, toti<g ref="char:EOLhyphen"/>dem des le<g ref="char:EOLhyphen"/>gibus ae<g ref="char:EOLhyphen"/>quis; quatu<g ref="char:EOLhyphen"/>er orabis, des Epuliſ<g ref="char:EOLhyphen"/>que duas. Quod ſu<g ref="char:EOLhyphen"/>pereſt ſa<g ref="char:EOLhyphen"/>cris ultro largire ca<g ref="char:EOLhyphen"/>moenis.</hi> K. <hi>Alfred</hi> divided every day into three parts; he allowed eight hours to his devotion-eight to his employment, and eight to his ſleep and refection.</note> And if this ſhould ſeem to any a hard ſaying, I deſire they would conſider, whether they don't ſpend two every day about things leſſe neceſſary. Let them caſt up the time they caſt away (more then they need) in ſleeping, eating, and drinking; then let them add thereunto the time they ſpend in ſports, or recre<g ref="char:EOLhyphen"/>ations, in idle viſits, in unprofitable ſtudies or muſings, and in empty chat, or conference with friends, and neigh<g ref="char:EOLhyphen"/>bours; and ſee if the product will not be ſo much or more: and will any that <hi>name the name of Chriſt,</hi> grudge an hour in a day for Prayer, when they can ſpend two, or, it may be, more in the meer pleaſing of the fleſh? is this conſiſtent with Chriſtianity? Won't ſuch be filled with horror (as many
+<note n="q" place="margin">One dreadfully ſchriecht out on her death-bed theſe words, A world of wealth for an inch of time. Another when friends comforted her as ſhe lay a dying, ſaid, Call time again; no comfort un<g ref="char:EOLhyphen"/>leſſe you can call time again. <hi>Chryſorius</hi> prayed, <hi>Indu<g ref="char:EOLhyphen"/>cias Domine uſque ad mane.</hi>
+               </note> others for the ſame reaſon have been) at the hour of death? Can they anſwer it at
+<pb n="12" facs="tcp:96400:9" rendition="simple:additions"/>that day when God will reckon with them for every talent he hath entruſted them with, and for that of time in par<g ref="char:EOLhyphen"/>ticular?</p>
+            <p>If this letter ſhould fall into the hands of any perſon, who hath reſolved, or doth reſolve to redeem an hour, or more e<g ref="char:EOLhyphen"/>very day for ſecret Prayer; let him conſider, whether it would not help to quicken and enlarge his heart, if he did morning, or evening, or when he finds himſelf beſt diſpoſed thereto, enter into his Cloſet and turn up an hour-glaſſe and purpoſe within himſelf, to ſee the laſt ſand run out, before he gave out or left Praying. I do not pro<g ref="char:EOLhyphen"/>poſe this as an every days practiſe, but at ſome certain ſeaſons only. It hath I con<g ref="char:EOLhyphen"/>feſſe its inconveniences, but withall, it hath its advantages: hereby the heart is engaged more firmely to the worke. Now it will not put by the preſent op<g ref="char:EOLhyphen"/>portunity by propounding another. If thy heart be as mine, it is apt to ſay to thee when at Prayer, as <hi>Felix</hi> ſaid to <hi>Paul,</hi> Goe thy way for this time, and come again at a more convenient ſeaſon. And further, thou wilt fall to the duty with the more ſervency; for thus
+<pb n="13" facs="tcp:96400:9" rendition="simple:additions"/>thou wilt reaſon with thy ſelfe, So much time I am reſolved to ſpend in this ſervice, and I were better ſpend it in wreſtling with God, then in trifling with God and with Prayer: I were bet<g ref="char:EOLhyphen"/>ter doe the buſineſſe in hand with all my might, and ſtir up my ſelfe to call upon God, for during ſuch a ſpace of time I reſolve to do nothing elſe.</p>
+            <p>I know tis the opinion of
+<note n="r" place="margin">
+                  <hi>Dicuntur ſratres in Egypto cre<g ref="char:EOLhyphen"/>bras orati<g ref="char:EOLhyphen"/>ones habere &amp; eas bre<g ref="char:EOLhyphen"/>viſſimas, ne illa vigi<g ref="char:EOLhyphen"/>lantia ere<g ref="char:EOLhyphen"/>cta, quae oranti plu<g ref="char:EOLhyphen"/>rimum ne<g ref="char:EOLhyphen"/>ceſſaria eſt, per produ<g ref="char:EOLhyphen"/>ctiores mo<g ref="char:EOLhyphen"/>ras evaneſ<g ref="char:EOLhyphen"/>cat, atque hebetetur intentio. Aug. ad Prob. Caſſian</hi> makes mention of ſome in his time, <hi>qui utilius cenſebant, breves quidem orationes, ſed creberrimas, fieri.</hi>
+               </note> many, that, as ſome perſons do by their meales, they eat little and often, ſo Chriſtians ſhould do by their Prayers. And in caſe of great indiſpoſition I judge it ad<g ref="char:EOLhyphen"/>viſable; when they have toiled a while, and can catch nothing they may take up their nets, and mend them againſt another ſeaſon, and yet I will not diſcommend ſuch a one that re<g ref="char:EOLhyphen"/>ſolves he will catch ſomething or he will toile all night; that purpoſeth in his heart (as
+<note n="ſ" place="margin">
+                  <hi>Nunquam abs te abſque te diſcedam. Paulus Aimilius,</hi> being to fight with the M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cedonians, would never give over ſacrificing to his God <hi>Hercules,</hi> till he had ſome ſigne of Victory.</note> one once did) that he will not go from God without God.</p>
+            <p n="3">
+               <pb n="14" facs="tcp:96400:10" rendition="simple:additions"/>3 Another Help to this Duty is, to take pains with your heart before-hand, to prepare it thereunto, 'tis uſually from the neglect of preparation, that we find ſuch deadneſſe and indiſpoſition in ſecret Prayer. Alas the heart is not all on a ſudden lifted up into heaven, many times the Prayer is almoſt ended, before we begin to pray. There is no Religious Duty but it muſt have ſome praevious preparation: this is evident both by the light of
+<note n="t" place="margin">
+                  <hi>Pſ.</hi> 26.6. <hi>Exod.</hi> 19.10.11.12. The Books of <hi>Levit.</hi> and <hi>Num.</hi> are full of Scriptures to the ſame purpoſe.</note> Scripture, and of
+<note n="u" place="margin">
+                  <hi>Tu Geni<g ref="char:EOLhyphen"/>tor cape ſacra manu patrioſque penates; me bello e tanto digreſſum, &amp; caede recenti, attractare nefas, donec me flumine vivo, abluero. Virg Aenead.</hi> 2. <hi>Procul binc, precul eſſe prophani, conclamat vates, totoque abſiſtite luco,</hi>
+               </note> Nature, but Prayer requires it in a more eſpecial manner: ſee how thoſe two, Preparation, and Prayer, are con<g ref="char:EOLhyphen"/>joyned <hi>Job.</hi> 11.13.</p>
+            <p>This is a trite Theam, and often in<g ref="char:EOLhyphen"/>culcated, therefore I ſhall paſſe it: on<g ref="char:EOLhyphen"/>ly let me adviſe you, when ever you go to Prayer (if your leiſure will permit) to read firſt one or more Chapters in the Bible; and do not gallop over the Scripture when you read it, as the moſt doe; but pauſe a little at the end of every
+<pb n="15" facs="tcp:96400:10" rendition="simple:additions"/>verſe or ſentence, and whilſt you pauſe,
+<note n="x" place="margin">
+                  <hi>Lecttio<g ref="char:EOLhyphen"/>nem fre<g ref="char:EOLhyphen"/>quenter in<g ref="char:EOLhyphen"/>terrumpat oratio, &amp; animum ju<g ref="char:EOLhyphen"/>giter ad<g ref="char:EOLhyphen"/>haerentem. Deo grata viciſſitudo ſanctae opo<g ref="char:EOLhyphen"/>rationis accendat Hieron.</hi> in <hi>Ep.</hi>
+               </note> Pray; the Scripture as you read it, will put words into your mouth, and ſuggeſt meditations which are fit matter for Prayer unto your minds, though ſome parts of Scripture eſpeci<g ref="char:EOLhyphen"/>ally the <hi>Pſalmes,</hi> are more apt for this purpoſe then others; and if any paſſage be obſcure, put a marke upon it, and propoſe it to the next able Miniſter, or Chriſtian thou meeteſt with to be reſolved; and for the preſent, pray in <hi>Davids</hi> language, or to that purpoſe, that
+<note n="z" place="margin">
+                  <hi>Pſal.</hi> 119.18.</note> 
+               <hi>God would open thine eyes to ſee and to underſtand the wondrous things of his Law.</hi>
+               <note n="y" place="margin">A good courſe to prevent idle and unprofitable diſcourſe.</note>
+            </p>
+            <p n="4">4. A fourth and further Help is this, to have right conceptions of God all a<g ref="char:EOLhyphen"/>long the Duty; to conceive of him as he is, and as he hath revealed himſelf in his Word to be. This will greatly conduce to the quickning of you. Con<g ref="char:EOLhyphen"/>ceive of him,</p>
+            <p n="1">1. As of an Omnipreſent God; that he is really, though not viſibly preſent in all places, and in that place where thou art a Praying more particularly; that he ſees thy heart as plainly as thou
+<pb n="16" facs="tcp:96400:11" rendition="simple:additions"/>canſt ſee thine own hands, that he ob<g ref="char:EOLhyphen"/>ſerveth thee as narrowly, as if thou on<g ref="char:EOLhyphen"/>ly wert alive in all the world, or as if thou alone of all the children of men wert making thy ſupplication to him. When ever thou ſetteſt about this duty,
+<note n="a" place="margin">How would you Pray if men were preſent to ſee and hear you? <hi>Sic loquere cum Deo quaſi Homines ad ſtarent. Seneca.</hi>
+               </note> ſet God before thine eyes (as <hi>David</hi> did) and repreſent him to thy ſelf un<g ref="char:EOLhyphen"/>der this notion of an Omnipreſent all<g ref="char:EOLhyphen"/>ſeeing God.</p>
+            <p n="2">2. Conceive of God as one that is full of Majeſty, and Greatneſſe. That paſſage in <hi>Mich.</hi> 6.6. <hi>(Wherewithall ſhall I come before the Lord, and bow my ſelf before the High God,)</hi> doth intî<g ref="char:EOLhyphen"/>mate what apprehenſions we ſhould have of God, when we come into his preſence, <hi>viz.</hi> that he is a High God, infinitely above any of his creatures; betwixt him and the Holy Angells, or the higheſt of the children of men, there is a wider difference then betwixt the Potter and his Clay. Oh how would this apprehenſion both quicken and awe us in Prayer.</p>
+            <p n="3">3. Conceive of God as one that is exceeding gracious, and plenteous in
+<pb n="17" facs="tcp:96400:11" rendition="simple:additions"/>mercy to all that call upon him. That known Scripture <hi>Heb.</hi> 11.6. <hi>(He that cometh to God muſt believe that he is, and that he is a rewarder of thoſe that diligently ſeek him)</hi> doth hint what conceptions we ſhould have of God in Prayer, as of one that is exceeding bountifull: we muſt believe not only his being, but his bounty: he gives not only what we ask, but more, yea
+<note n="b" place="margin">Eph. 3.20. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Supra quam re<g ref="char:EOLhyphen"/>dundan<g ref="char:EOLhyphen"/>ter.</hi>
+               </note> a<g ref="char:EOLhyphen"/>bundantly more then we can ask. Oh what quickning and confidence doth this notion of God afford! To appre<g ref="char:EOLhyphen"/>hend God in his greatneſſe doth
+<note n="c" place="margin">
+                  <hi>Vitus T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cod.</hi> ſays of <hi>Luther,</hi> that he Prayed with ſuch reverence is became one that pake to he great God, and with confidence as became one that ſpake to his Fa<g ref="char:EOLhyphen"/>ther or Friend.</note> ſtir up feare and godly reverence. To appre<g ref="char:EOLhyphen"/>hend God in his goodneſſe, doth ſtir up Faith and holy boldneſſe. God who is our father, likes that we his children ſhould come before him in this manner; he gives us leave (ſo we doe it awful<g ref="char:EOLhyphen"/>ly) to
+<note n="d" place="margin">Eph 3.12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Proprie eſt libertas dicendi, ex</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>omne, &amp;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>dictio.</hi>
+               </note> ſpeak all our minds to him. Tis ſaid of <hi>Flavius</hi> the Emperour, that he would not that any man ſhould preſent a petition to him (as if he were offering meat to a Lyon or Elephant) with a trembling hand: God likes that we
+<pb n="18" facs="tcp:96400:12" rendition="simple:additions"/>ſhould lift up our hands to him, <hi>as with<g ref="char:EOLhyphen"/>out wrath,</hi> ſo <hi>alſo
+<note n="e" place="margin">1 Tim. 2.8.</note> without doubting.</hi>
+            </p>
+            <p n="4">4. Conceive of God in Prayer as one God,
+<note n="f" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id</hi> Dr. <hi>Hall Deca.</hi> 3 <hi>Ep.</hi> 7.</note> not divided, and yet diſtinguiſh<g ref="char:EOLhyphen"/>ed into three Perſons, the Father, Son, and Spirit. This is a great myſtery, fit<g ref="char:EOLhyphen"/>ter for admiration, then humane con<g ref="char:EOLhyphen"/>ception; and yet all along this duty God muſt be thus apprehended, as one ſubſtance in three ſubſiſtances; as one eſſence in three relations: all which do concur to the Prayers of Believers, and have a different office about them; there is the Father hearing, the Son in<g ref="char:EOLhyphen"/>terceding, and the Spirit helping their infirmities.</p>
+            <p>Laſtly conceive of God not
+<note n="g" place="margin">
+                  <hi>Luther</hi> was wont to ſay, <hi>No<g ref="char:EOLhyphen"/>lo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um abſolutum</hi> Heb. 12. <hi>ult</hi>
+               </note> abſo<g ref="char:EOLhyphen"/>lutely, but in Chriſt: God in himſelf is <hi>a conſuming fire,</hi> but in Chriſt he is a mercifull Father.
+<note n="h" place="margin">Heb. 7.25. <hi>Themiſtocl.</hi> under<g ref="char:EOLhyphen"/>ſtanding that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Admettus</hi> was angry with him took his young ſon in his armes, and treated with the father holding that his darling in his boſome, and thereby he appeaſed the Kings wrath.</note> 
+               <hi>There is no coming to God but by him.</hi> I might enlarge upon this head, but I forbear; only remem<g ref="char:EOLhyphen"/>ber this, you will never pray to any pur<g ref="char:EOLhyphen"/>poſe unleſſe you carry along with you in your minds, a right notion, and con<g ref="char:EOLhyphen"/>ception
+<pb n="19" facs="tcp:96400:12" rendition="simple:additions"/>of that God to whom you pray.</p>
+            <p n="5">5. Entertain and maintain very ho<g ref="char:EOLhyphen"/>norable thoughts of the Duty of Prayer it ſelf: this will both move you to the Duty, and marvellouſly quicken you in it. What the
+<note n="i" place="margin">Pſ. 87.3.</note> 
+               <hi>Pſalmiſt</hi> ſays of the City of God, that may I ſay of the Duty of Prayer, <hi>Great and glorious things are ſpoken of it.</hi> If any ſhould ask me as that King did the Prophets ſervant,
+<note n="k" place="margin">1 Kin. 8.4.</note> 
+               <hi>What great things hath thy Maſter done?</hi> So what great things hath Prayer done? it would require more lines, then I intend in all, to return a full anſwer. I might eaſily write a large hiſtory of the great exploits that Prayer hath done in the world. You read <hi>Heb.</hi> 11. of many wonderfull effects of faith, the effects and fruits of Prayer are as many, and as great. It hath
+<note n="l" place="margin">Dan. 9.2, 3, 4. Iſa. 37.15, 16, &amp;c. Ion. 2.1, 2, &amp;c. Joſh. 10.12, 14. Act. 12.5. Dan. 2.18. 2 Sam. 15.31. Eſt. 4.16.</note> 
+               <hi>Obtained promiſes, ſubdued Kingdoms, turned to flight the armies of aliens; it hath rai<g ref="char:EOLhyphen"/>ſed the dead, ſtopt the Suns courſe, yea made it to go back. It hath opened pri<g ref="char:EOLhyphen"/>ſon doors, and unlockt ſuch ſecrets as have puzzled the Divell himſelf; it hath diſappointed the plots of adverſaries, and rumbled thoſe into the pit themſelves
+<pb n="20" facs="tcp:96400:13" rendition="simple:additions"/>which they have maliciouſly digged for others. What ſhall I ſay more? it hath
+<note n="m" place="margin">Jam. 5.17.18. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> i. c. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> af<g ref="char:EOLhyphen"/>fectionibus obnoxius.</hi>
+                  </note> opened Heaven, and ſhut it again.</hi> Theſe and ſuch like memorable things have been brought to paſſe, by the Prayers of ſuch ſinfull and infirme creatures as we our ſelves are.</p>
+            <p>Let me add this, it hath ſaid hold on God himſelf; and put him (as one ſays) to a mercifull retreat, when he hath been marching in his anger againſt perſons or people. <hi>Jacob by Prayer
+<note n="n" place="margin">Hoſ. 12.3.</note> had power with God,</hi> and by wreſt<g ref="char:EOLhyphen"/>ling with him
+<note n="o" place="margin">Caelum tundimus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> miſere<g ref="char:EOLhyphen"/>cordiam ex<g ref="char:EOLhyphen"/>torquemus. Tertull.</note> wreſted mercy from him. God ſpeaks as if his hands were held and tyed up by Prayer; <hi>Let me go,</hi> ſaith he <hi>to Jacob;</hi> and to <hi>Moſes,
+<note n="p" place="margin">
+                     <hi>Au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> on Exod 32.10. thus gloſſeth <hi>Domine quis tenet te? &amp;c.</hi>
+                  </note> Let me alone.</hi>
+               <note n="q" place="margin">
+                  <hi>Manton</hi> on James 5.86.</note> One ob<g ref="char:EOLhyphen"/>ſerves that God in <hi>Exod.</hi> 32.10. doth indent as it were with <hi>Moſes</hi> and offer him compoſition, if he would hold his peace; <hi>Let me alone</hi> (ſaith he) <hi>and I will make of thee a great people;</hi> Won<g ref="char:EOLhyphen"/>derfull is that paſſage (
+<note n="r" place="margin">Some read it interrogatively thus, Concerning the works of my hands command ye me?</note> if we read it right) in <hi>Iſa.</hi> 45.11. there God ſayes, <hi>Concerning the works of my hands com<g ref="char:EOLhyphen"/>mand
+<pb n="21" facs="tcp:96400:13" rendition="simple:additions"/>ye me.</hi> Theſe and the like expreſ<g ref="char:EOLhyphen"/>ſions are to be admired (ſays the ſame Author) not ſtrained, leſt our thoughts degenerate into rude blaſphemy: cer<g ref="char:EOLhyphen"/>tainly they are mighty condeſcenſions, wherein the Lord would ſignifie to us the great power and efficacy of Prayer.</p>
+            <p>I might bring many Scriptures and arguments to evince the prevalency of Prayer: but this is a common argu<g ref="char:EOLhyphen"/>ment, and therefore I ſhall decline it. Only conſult <hi>Mat.</hi> 21.22. where Chriſt ſays that <hi>all things, whatſoever we aske in Prayer, believing, we ſhall receive.</hi> This one promiſe is enough of it ſelf to quicken the deadeſt ſoul that is, in Prayer, and Chriſts manner of ſpeaking here, is obſervable; it had been (one would have thought) e<g ref="char:EOLhyphen"/>nough to have ſaid, All things ye ask in Prayer ye ſhall receive; but here he adds, all things <hi>whatſoever.</hi> It ſeems to be a tautology; we don't ſpeak in our ordinary diſcourſe, I will give you all things whatſoever you ask. But this is not without its ſignification; <hi>All things</hi>
+               <note n="ſ" place="margin">'Tis Mr <hi>Burroughs</hi> his gloſſe in one of his Books.</note> (ſayes one) is a promiſe of ge<g ref="char:EOLhyphen"/>nerals, and <hi>whatſoever</hi> rela<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es to parti<g ref="char:EOLhyphen"/>culars. 'Tis as if he had ſaid, Not one<g ref="char:EOLhyphen"/>ly
+<pb n="22" facs="tcp:96400:14" rendition="simple:additions"/>all things in generall, but every per<g ref="char:EOLhyphen"/>ticular thing that you ask you ſhall re<g ref="char:EOLhyphen"/>ceive; for though it be true, that ge<g ref="char:EOLhyphen"/>nerals include particulars, yet ſuch is the unbeliefe of our hearts, that though we aſſent to promiſes in the generall, yet when it comes to particulars, we hold off, and fear they will not be made good to us. Hereto I might add that ſpeech of Chriſt to the woman of <hi>Canaan;
+<note n="t" place="margin">It was ſaid of <hi>Lu<g ref="char:EOLhyphen"/>ther, Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e vir apud Deum, po<g ref="char:EOLhyphen"/>tuit quod voluit.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> P<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſe that full Scripture <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> John 5. 1 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 15.</note> Be it unto thee as thou wilt,</hi> he ſeemes to give her a blank, and bids her write down what ſhe pleaſeth.</p>
+            <p>But enough of this: My advice is, That you digeſt this notion well, and carry it along with you all the while you are at prayer, and it cannot but quicken you. As he muſt needs pray heartleſly, who thinks 'tis a bootleſs exerciſe, who is ready to ſay in his heart, <hi>What profit is it that I pray unto God?</hi> ſo he muſt neceſſarily
+<note n="u" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Jam. 5.17.</note> 
+               <hi>pray in Prayer</hi> as 'tis ſaid <hi>Elias</hi> did, who thinks that Prayer, like <hi>Jonathans</hi> bow, doth
+<note n="w" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Menander.</note> never return empty; but oftentimes as the Eccho doubleth the voice, ſo doth Gods anſwer our prayers. Reſt aſſured of this, That every petition a believer puts up on Earth is read and
+<pb n="23" facs="tcp:96400:14" rendition="simple:additions"/>fil'd in Heaven:
+<note n="x" place="margin">So was <hi>Solomons,</hi> 1 K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n 8.59. and ſo is every be<g ref="char:EOLhyphen"/>lievers.</note> 'Tis nigh God, and in his view night and day; he gives the thing deſired,
+<note n="y" place="margin">Nemo parvi pendat onationem ſuam, dico enim v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bis, quod ipſe ad qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m oramus, non parvi pendit cam. Poſtqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m egreſſa eſt ab ore n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtro, ipſe ſcribit eam in libro ſuo, &amp; unum in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uobus indubitanter expectemus, aut dabi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quod petimus, aut quod novit utilius. Greg. in Hom. ſuper Evang.</note> or ſomething that is better.</p>
+            <p n="6">6. Be much in the uſe of ejaculatory Prayer. Reader, if thou ſhouldſt not underſtand the word, I will ſuppoſe thee acquainted with the thing: 'tis a ſhort, yet ſerious lifting up thy ſoul in deſires unto God, upon any occaſion whatſo<g ref="char:EOLhyphen"/>ever. Theſe ejaculatory Prayers are ei<g ref="char:EOLhyphen"/>ther vocal, or mental onely. If you read the Scripture,
+<note n="z" place="margin">Gen. 43.14. &amp; 49.18. Nch 2.4.5. Judg. 16.28. 2 Sam. 15.31. L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke 23.42. J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h 12.26.27. Luke 20.21. &amp; 23.34, 36. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if this be not intend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vid,</hi> when he ſays, Pſal. 119.164 <hi>Seven times a day do I praiſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi>
+               </note> you ſhall find this way of praying very familiar with the beſt of men, yea with Chriſt himſelf.</p>
+            <p>I could offer many things to com<g ref="char:EOLhyphen"/>mend it you; as thus.</p>
+            <p n="1">1. 'Tis very acceptable to God: he hath teſtified his accepting by his an<g ref="char:EOLhyphen"/>ſwering ſuch ejaculations as theſe. <hi>Da<g ref="char:EOLhyphen"/>vids</hi> vocal ejacul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, <hi>Turn (O Lord)
+<pb n="24" facs="tcp:96400:15" rendition="simple:additions"/>I pray thee, the counſel of</hi> Achitophel <hi>into fooliſhneſs.</hi> And <hi>Nehemiah's</hi> men<g ref="char:EOLhyphen"/>tal ejaculation, <hi>Neh.</hi> 2.4, 5. had preſent audience.</p>
+            <p n="2">2. 'Tis very eaſily performed; all times and places are alike to it: whe<g ref="char:EOLhyphen"/>ther you are alone, or in company, at home, or abroad, you may in this way make known your requells un<g ref="char:EOLhyphen"/>to God.</p>
+            <p n="3">3. 'Tis an excellent means to keep the heart always in a heavenly frame: It helps you alſo to improve every Or<g ref="char:EOLhyphen"/>dinance and Providence of God.</p>
+            <p>But laſtly, which makes to our pur<g ref="char:EOLhyphen"/>poſe, 'tis of ſpecial uſe to diſpoſe us for ſolemn and
+<note n="a" place="margin">
+                  <p>
+                     <hi>Vid.</hi> Mr. <hi>Gurnal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 3 Part of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mpleat Chriſtian Armour, <hi>p.</hi> 387.</p>
+                  <p>It was a ſpeech of a dying Saint, that he was going to change his place, but not his company. A Chriſtian that is frequent in theſe ejaculations, when he goes to Pray more ſolemnly, he goes from God to God. from a more tranſient view of him to a more fixed <hi>&amp;c.</hi>
+                  </p>
+               </note> continued Prayer. They that often in the day are thus lifting up their hearts to God, have them in tune when they betake themſelves to that more ſolemn ſervice. Praying thoughts and deſires are with them in a readi<g ref="char:EOLhyphen"/>neſs: theſe ſhort breathings do prepare them for a longer race. They that are good (ſays one) at theſe running pulls
+<pb n="25" facs="tcp:96400:15" rendition="simple:additions"/>and trips, muſt needs wreſtle well with God. A candle that is juſt now put out, is ſoon lighted again: whileſt the heart ſtill glows, and is warm with theſe ſhort ejaculations, 'tis readily kindled and quickned in ſolemn ſecret Prayer.</p>
+            <p>My advice is, That you would accu<g ref="char:EOLhyphen"/>ſtome your ſelf to theſe holy Apoſtro<g ref="char:EOLhyphen"/>phe's, to theſe heavenly ejaculations. And yet I would caution you againſt do<g ref="char:EOLhyphen"/>ing this in a cuſtomary way. Formality (if you have not a care) will fly-blow and corrupt this and every other good duty,</p>
+            <p n="7">7. Another Help is this: Keep your heart cloſe to the Duty, and ſuffer it not to ſtray or wander. A ſtraying beart muſt needs be a ſtraightned and a dead heart in Prayer. How can a Chriſtian have a lively and enlarged heart in a Duty, when he hath no heart at all there? but that is
+<note n="b" place="margin">
+                  <hi>Qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſi nobis <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mo cum homine <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulgari inter oran<g ref="char:EOLhyphen"/>dum, omiſſo Deo, huc vel illuc tranſvolamus. Calv. In<g ref="char:EOLhyphen"/>ſtit. l</hi> 4.</note> ſtragling in this and that corner of the earth: whilſt he is ſpeaking to God, his heart is conver<g ref="char:EOLhyphen"/>ſing with the world, inſomuch that he forgets many times in Prayer what he
+<pb n="26" facs="tcp:96400:16" rendition="simple:additions"/>ſpake laſt.
+<note n="c" place="margin">Magna<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> injuriam Deo ſacio, cum preco<g ref="char:EOLhyphen"/>nt mtas preces ex<g ref="char:EOLhyphen"/>audiat quas ego qui fundo non exau<g ref="char:EOLhyphen"/>dio. De<g ref="char:EOLhyphen"/>precor <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ut mi <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go vero <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mihi nec illi in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>do.</note> Oh what an indignity is offered unto God, and how is he mockt by ſuch praying as this! We would have him attend to our prayers, when we do not attend to them our ſelves.</p>
+            <p>Vain thoughts in Prayer are occaſi<g ref="char:EOLhyphen"/>oned partly by the deſperate wicked<g ref="char:EOLhyphen"/>neſs and deceitfulneſs of our own hearts; thence they do proceed as Chriſt ſhews, and that as freely as water from a ſountain; and partly by the ſubtilty and malice of Satan; he being a Spirit hath ready acceſs to thy ſpirit, and thou never goeſt aſide to pray, but he follows thee at the heels; and ſeeing he cannot divert thee from, his deſire is to diſtract thee in the duty. Sometimes he injects ſuch thoughts as are directly ſinfull, or if he finds that theſe affright thee (as many times a Chriſtian ſtarts at theſe as at ſome ghoſtly apparition) then he caſts in ſuch as are at other times al<g ref="char:EOLhyphen"/>lowable and lawfull; or if he ſees that theſe are unwelcome, then he injects ſuch thoughts as are in themſelves good and uſefull, onely they are impertinent: theſe he ſteals our of the heart again for the moſt part before the Prayer is ended: though at other times he would
+<pb n="27" facs="tcp:96400:16" rendition="simple:additions"/>oppoſe them, yet now he puts them forward, as thoſe that are moſt likely to find entertainment in thy ſoul. I ſuppoſe thy experience will let thee ſet thy ſeal to this as true.</p>
+            <p>Now if thou wouldeſt have thy heart enlivened and enlarged in Prayer, re<g ref="char:EOLhyphen"/>member to repel every vain or imper<g ref="char:EOLhyphen"/>tinent thought that comes in to thy di<g ref="char:EOLhyphen"/>ſturbance: reſiſt it; riſe upon it; call in help from Heaven againſt it: This is one ſence we are to put upon the A<g ref="char:EOLhyphen"/>poſtles
+<note n="d" place="margin">Eph. 6.18.</note> 
+               <hi>watching unto Prayer.</hi> If at other times, then much more in Pray<g ref="char:EOLhyphen"/>er, we muſt keep our hearts with all keeping, or elſe, do what we can, they will give us the ſlip.
+<note n="e" place="margin">'Tis Mr. <hi>Gurnals</hi> compari<g ref="char:EOLhyphen"/>ſon in <hi>Lib. praedict.</hi>
+               </note> As you do with your Children, ſo you had need to do with your Childiſh minds; happily they go along with you to Church, but when you are ſet (if not awed by your eye) they ſteal ſorth, and are gone; and it may be are playing all Sermon time, or a good part of it, and you miſs them not; To prevent this, you ſet them before you, and have an eye to them. You can apply it.</p>
+            <p>Remember this advice whenever you go to Prayer; renew your reſo<g ref="char:EOLhyphen"/>lution
+<pb n="28" facs="tcp:96400:17" rendition="simple:additions"/>to watch againſt vain thoughts; think how many Prayers they have
+<note n="f" place="margin">S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> mens noſtra nul<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>s uti<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tatem <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rcipi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s, imo potius ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m dam <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. Vel. Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</note> marr'd already; reſolve, that through grace, they ſhall not ſpoil this alſo.</p>
+            <p n="8">8. Let the guilt of no one ſin ly up<g ref="char:EOLhyphen"/>on thy Conſcience; that will ſo clog, diſquiet, and check thy ſpirit in Pray<g ref="char:EOLhyphen"/>er, that thou wilt never be able to pro<g ref="char:EOLhyphen"/>ceed with any life or enlargement. Guilt makes a Chriſtian ſhy of coming into the preſence of God, as a faulty Child playes leaſt in ſight, and ſteals away to bed before the time, being loath to come where his Father is. So it is with a Chriſtian, that is conſcious to himſelf of any fault or ſin that he hath knowingly committed againſt God; and as he is liſtleſs to come to Prayer, ſo he is lifeleſs in the duty; his ſin flies in his face, ſo that he can<g ref="char:EOLhyphen"/>not lift it up with any
+<note n="g" place="margin">Tunc eor ſiduciam in oratione occipit q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ſibi vitae nulla pran it as contradi<g ref="char:EOLhyphen"/>ert. Greg. in mor.</note> confidence: his heart upbraids him, and falls a quar<g ref="char:EOLhyphen"/>relling with him, and ſays, What haſt thou to do to take Gods Name into thy mouth, <hi>&amp;c?</hi> If therefore thou wouldeſt pray as thou deſireſt, preſerve thy Conſcience pure and peaceable: Take heed of known ſins;
+<note n="h" place="margin">Pſal. 18.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> 
+               <hi>of depart<g ref="char:EOLhyphen"/>ing wilfully or wickedly</hi> (as <hi>Davids</hi>
+               <pb n="29" facs="tcp:96400:17" rendition="simple:additions"/>phraſe is) from God. There is
+<note n="i" place="margin">Peccata quotidianae incu ſimis, &amp; vaſtan<g ref="char:EOLhyphen"/>tia conſci<g ref="char:EOLhyphen"/>entiam.</note> a ſinning weakly, or through weakneſs; this doth not ordinarily interrupt a Chriſtians peace; and there is a ſin<g ref="char:EOLhyphen"/>ning wickedly, or through wickedneſs; (ſo
+<note n="k" place="margin">Jude 15.</note> 
+               <hi>Jude</hi> ſpeaks of committing un<g ref="char:EOLhyphen"/>godly deeds ungodlily) this lays waſte the Conſcience; this deſtroys a Chri<g ref="char:EOLhyphen"/>ſtians peace, and deadens his heart in duty; Oh beware of ſinning after this manner! if thou muſt abſtain from e<g ref="char:EOLhyphen"/>very appearance of evil, then much more from every apparent evil! Oh fly from it when it comes near thee in a temptation, as thou wouldeſt do from a venemous Serpent; ſhake it off as thou wouldeſt do an ugly Toad that is cravvling up upon thee: Obſerve
+<note n="l" place="margin">Job 23.22. with 26 27.</note> 
+               <hi>E<g ref="char:EOLhyphen"/>liphaz</hi> his advice to <hi>Job,</hi> which is, <hi>to put iniquity far from him;</hi> not to come near it; and then ſays he, <hi>thou ſhalt lift up thy face to God, and make thy prayer unto him:</hi> Thou ſhalt make many and mighty Prayers; (as the
+<note n="m" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> multipli<g ref="char:EOLhyphen"/>cavit, pro<g ref="char:EOLhyphen"/>prie verba fortia in oratione <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> multae cogia fudit</note> word there ſignifies) thou ſhalt not onely uſe words in Prayer, but words cloathed with power; thou ſhalt be a<g ref="char:EOLhyphen"/>ble to pray, and to pour ſtrong Prayers in abundance unto God.</p>
+            <p>
+               <pb n="30" facs="tcp:96400:18" rendition="simple:additions"/>
+               <hi>Queſt.</hi> But if ſin hath already wounded my Conſcience, and broken my Peace; am I now to refrain Pray<g ref="char:EOLhyphen"/>er till it be healed again?</p>
+            <p>
+               <hi>Anſ.</hi> No: for this is not to mend the matter, but to make it worſe. You cannot heal the wound of one ſin by another: you muſt to Chriſt by Faith, and to God by Prayer; and though there be a preſent deadneſs, yet ply the Throne of Grace, till the Lord ſpeak peace to thy ſoul: and remem<g ref="char:EOLhyphen"/>ber to do this preſently; the ſooner, the better; let not the Sun go down upon the breach betwixt God and thee: New breaches, are made up better then long quarrels; and green wounds are healed eaſier than old ſores.</p>
+            <p n="9">9. It will not a little help in this caſe, if you are provided beforehand both with matter, and a method in Prayer. I obſerve that Chriſtians are ſtreightned in this duty, not onely from the naughtineſs of their hearts, but from the emptineſs of their heads; as ſometimes (like <hi>Zebedees</hi> Children) they ask they know not what; ſo at other times they know not what to ask: They are often word-bound, (if I may
+<pb n="31" facs="tcp:96400:18" rendition="simple:additions"/>ſo ſpeak) and at a loſs; they cannot tell how to go forwards, and therefore they go backwards, and vent them<g ref="char:EOLhyphen"/>ſelves in vain repetitions. Now this great evil will be in part prevented, if they be ſtor'd beforehand with matter for Prayer, and if they do obſerve a me<g ref="char:EOLhyphen"/>thod in the duty.</p>
+            <p>Poſſibly upon the firſt reading of this direction, you may reject it, as that which ſhuts out the immediate ſuggeſtions of the Spirit, and tends to formality; but weigh it well, and you will be of another mind: Take it upon the word of one that hath prov'd it; it is of admirable uſe to quicken and enlarge the heart in Prayer; be<g ref="char:EOLhyphen"/>cauſe from hence there is a continual ſupply of freſh matter, for want of which (your experience tells you, that) you are exceedingly dulled and ſtraightned. Tis true, ſometimes (and oh that it were ſo always!) we have ſuch abundant aſſiſtance, ſuch raviſh<g ref="char:EOLhyphen"/>ing incomes from the Spirit of God, that we ſtand in no need of any ſuch help as this here offer'd; our ſpirits are ſo raiſed, our affections are ſo up, we are carryed out ſo beyond our
+<pb n="32" facs="tcp:96400:19" rendition="simple:additions"/>ſelves, that we cannot be bounded by any premeditated matter or method; but our hearts are not always like the Chariots of <hi>Aminadab,</hi> but too often like the Chariots of <hi>Pharaoh;</hi> we drive on, but heavily, for the moſt part, in this duty; and at ſuch times this dire<g ref="char:EOLhyphen"/>ction may have its uſe.</p>
+            <p>In order to ſtoring our ſelves with matter and method for Prayer, it would not be amiſs, if you had heads, and common places in your mind, (or rather in writing) to which you might refer ſuch Scriptures and conſiderati<g ref="char:EOLhyphen"/>ous, as do occurr in meditation by your ſelves, in conference with others, in reading or hearing the Word of God. Hitherto alſo you might refer the ſins you have committed, the mercies you have received, the wants you would have ſupplied, the luſts you would have ſubdued, <hi>&amp;c.</hi> It ſhould be ſome part of every days work to col<g ref="char:EOLhyphen"/>lect fit matter for Prayer: This is ano<g ref="char:EOLhyphen"/>ther way of watching thereunto; what Miniſters do to fit themſelves for Preaching, that all Chriſtians ſhould do to fit themſelves for Praying. They put all things they meet with (which
+<pb n="33" facs="tcp:96400:19" rendition="simple:additions"/>may be of uſe) under their proper heads, in books which they have for that purpoſe, that they may readily have recourſe thereto, whenever they have occaſion. And ſo your collecti<g ref="char:EOLhyphen"/>ons muſt not be ſet down confuſedly, but methodically, and in order; elſe you will be to ſeek when you ſhould make uſe thereof.</p>
+            <p>It would do well alſo if Chriſtians would obſerve a method in their Pray<g ref="char:EOLhyphen"/>ers throughout; this is of ſingular uſe to thoſe who pray with others; becauſe confuſed repetitions, and diſorderly di<g ref="char:EOLhyphen"/>greſſions, cannot but diſlike and deaden thoſe that joyn with them; and it is not altogether uſeleſs in ſecret Prayer; for now a man can never be at a ſtand, but ſtill there will be an orderly ſuc<g ref="char:EOLhyphen"/>ceſſion of matter which ſerves greatly to quicken and excite the heart and affections, as I have already hinted.
+<note n="n" place="margin">Dr. <hi>Gouge</hi> his guide to go to God. <hi>Lambertus Danaeus de oratione d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>minica &amp;c.</hi> Conſult Dr. <hi>Wilkins</hi> his diſcourſe concerning the Gift of Prayer there you will meet with an exact method to be obſerved in Prayer. Prayer by him is divided into two parts: 1. Leſs principal, <hi>viz.</hi> A Preface, apt tranſitions, and the concluſion. 2. More principal: 1. Confeſſion, 2. Petition, 3. Thankſgiving. There you will find alſo ſcheams of theſe three more principal parts of Prayer.</note> The Lords Prayer, which is the ſtan<g ref="char:EOLhyphen"/>dard,
+<pb n="34" facs="tcp:96400:20" rendition="simple:additions"/>or ſtanding pattern of Prayer, is very excellent (as many have obſerv'd) for method as well as matter; and here<g ref="char:EOLhyphen"/>by doubtleſs Chriſt would intimate to us, that the one is uſefull as well as the other.</p>
+            <p>
+               <hi>Obj.</hi> You'l ſay, This advice cannot be put in practiſe without great pains and care, and to me there ſeems no ſuch need of it; for doubtleſs God is not taken with method or words in Prayer, his eye is upon the heart, and he ob<g ref="char:EOLhyphen"/>ſerves its motion more then the motion of the tongue.</p>
+            <p>
+               <hi>Anſw.</hi> This is moſt true; and there<g ref="char:EOLhyphen"/>fore it is not propounded as that which will affect or take with God, but as a means to quicken and enlarge our ſelves. And yet I muſt tell you too, that though the words we ſpeak and the method we uſe do not affect God; yet to beſpeak him in a conſuſed, careleſs, empty manner, cannot but offend him. I am ſure it is very unbecoming the ſo<g ref="char:EOLhyphen"/>lemnity of the Duty, and contrary to that reverence we owe unto the Divine Majeſty. He that requires us to take heed how we hear when he ſpeaks to us, doth look that we ſhould take as
+<pb n="35" facs="tcp:96400:20" rendition="simple:additions"/>
+               <note n="o" place="margin">
+                  <hi>Nèſcit poenitendae loqui qui proferendae prius ſuo tradidit examini. Caſſiodor. l.</hi> 10. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p.</hi> 4.</note> great heed what we ſay when we ſpeak unto him. Weigh <hi>Solomons</hi> caution <hi>Eccl.</hi> 5.2. <hi>Let not thy heart be haſty to utter any thing before the Lord.</hi> 'Tis you know the tongues office to utter, and the heart's is to conceive, why is it then ſaid, <hi>Let not thy heart be haſty to utter?</hi> Becauſe the heart ſhould not ſuffer the tongue to utter what it had not firſt conceived and concocted. The reaſon of this caution is taken from the conſi<g ref="char:EOLhyphen"/>deration of that infinite diſtance be<g ref="char:EOLhyphen"/>twixt God and us: He is an <hi>High and holy God that inhabiteth Eternity,</hi> and thou (as
+<note n="p" place="margin">E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>palude ſud proce<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, &amp; re<g ref="char:EOLhyphen"/>pens vilis ranuncula.</note> 
+               <hi>Bernard</hi> expreſſeth it) a vile Toad creeping and crawling out of its ditch; <hi>He is in heaven, and thou upon the earth, therefore thy words ſhould be few.</hi> Why ſhould our words be few? what! is God againſt long Praying? No, ſurely, he is not tyred with the length, nor taken with the ſhortneſs of our Prayers; but the reaſon of the clauſe is this, Becauſe they who ſpeak but little, do ponder what they ſay. Our tongues when we ſpeak to men (much leſs when we ſpeak to God) ſhould not run before our wit. We <hi>ſhould chooſe out words to reaſon with
+<pb n="36" facs="tcp:96400:21" rendition="simple:additions"/>God</hi> (as
+<note n="q" place="margin">Job 9.14.</note> 
+               <hi>Job</hi> ſpeaks.) As we muſt be<g ref="char:EOLhyphen"/>ware of curioſity, ſo alſo of careleſlneſs in thoſe words which we utter before God in Prayer. God ponders our words, and therefore we have reaſon to do it our ſelves.</p>
+            <p n="10">10. The tenth Direction ſhall con<g ref="char:EOLhyphen"/>ſiſt of three or four particulars, which are prudential onely, and may ſeem (till prov'd) little profitable.</p>
+            <p n="1">1. Chooſe and uſe that geſture of body which may ſerve beſt to quicken and excite thy Spirit in this ſervice. And here I muſt premiſe, that there is no bodily geſture in ſecret Prayer com<g ref="char:EOLhyphen"/>manded by God, he hath left that to the prudence and piety of his people: therefore if you read the Scripture, you ſhall find the Saints of God to have uſed all the poſtures of the body in this duty: indeed, Kneeling hath been moſt in practice, that is a poſture of great reverence, and it is put
+<note n="r" place="margin">Pſal. 95.6. Eph 3.14. <hi>A ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> no rem de<g ref="char:EOLhyphen"/>notat, non quod oratio ſemper requi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at genuflexioaem, ſed q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am hoc reverentiae ſignum communiter adhibeatur praeſertim ubi non perfunctoria eſt ſed ſeria oratio. Cal. in lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> ſometimes for the duty of Prayer it ſelf: not that it is
+<pb n="37" facs="tcp:96400:21" rendition="simple:additions"/>eſſential to it, for you ſhall ſee the peo<g ref="char:EOLhyphen"/>ple of God in other poſtures at Prayer; ſometimes you read of their
+<note n="ſ" place="margin">Mat. 26.39. Joſh. 7.6. 2 Sam. 12.16.</note> proſtra<g ref="char:EOLhyphen"/>ting themſelves, or lying with their fa<g ref="char:EOLhyphen"/>ces upon the ground; ſometimes again you read of their
+<note n="t" place="margin">2 Sam. 7.18.</note> ſitting; ſometimes of their
+<note n="u" place="margin">1 Kin. 8.22. 2 Chron. 20.9.</note> ſtanding, and ſometimes of their
+<note n="w" place="margin">Gen. 24.63. <hi>Heb.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies, as to medltate, ſo to pray. <hi>Vid. Chald.</hi> and <hi>Genev. Tranſlat.</hi> and <hi>Tremell.</hi>
+               </note> walking. This laſt geſture, though leaſt in uſe, yet ſome have found it uſefull. Kneeling doth often diſpoſe to ſleep and drowſineſs, which ſtanding or walking doth prevent: and ſurely that geſture is moſt eligible, which is found moſt effectual to keep off indiſpoſition, or to diſpoſe and fit a perſon for duty.</p>
+            <p>Nay, my opinion is, that variety of geſtures, may be both lawfull and uſefull at ſometimes in this exerciſe. Surely Chriſtians may take that liberty when alone, which would be unſeemly in the preſence of others: They may now kneel, and anon ſtand,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 6 &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; 41.11.14.</note> and then walk; and ſo turn from one geſture to another, as they find it will be more helpfull to them for the end already
+<pb n="38" facs="tcp:96400:22" rendition="simple:additions"/>mentioned. Yea, I doubt not, but in caſe of great ſtraitneſs upon their ſpi<g ref="char:EOLhyphen"/>rits, they may make a ſtand or pauſe, till they have by meditation recovered ſome new matter to continue the Duty: They may turn from Prayer to Read<g ref="char:EOLhyphen"/>ing, and from Reading again to Prayer; from Prayer to Meditation, and from Meditation again to Prayer, as they ſee good. <hi>Jerome</hi> doth ſomewhere re<g ref="char:EOLhyphen"/>late, how that finding himſelf ſluggiſh and dead in Prayer, he left ſpeaking to God, and fell a ſpeaking to his own heart: <q>Think, O my ſoul, (ſays he) did <hi>Daniel</hi> thus pray when he was in the Lions den? or <hi>Jonah</hi> when he was in the Whales belly? Did the penitent Thief thus pray when he was upon the Croſs?</q> 
+               <hi>&amp;c.</hi> And then he tells us that he went to Prayer afreſh, when he had firſt rouſed up himſelf by theſe and ſuch like conſi<g ref="char:EOLhyphen"/>derations.</p>
+            <p n="2">2. Chooſe ſuch a place to pray in as is moſt convenient for this Duty. Find out ſuch a place (if thou canſt) where thou mayeſt not be diſturbed by any noiſe in thine ears, nor be diverted by any object before thine eyes. <hi>When
+<pb n="39" facs="tcp:96400:22" rendition="simple:additions"/>thou prayeſt</hi> (ſays Chriſt) <hi>enter into thy Cloſet.</hi> This counſel of Chriſt doth intimate, That Chriſtians when they pray ſhould have reſpect to the place in which they pray; the more cloſe the more convenient. He adviſeth further, <hi>to ſhut the door:</hi> leſt the wind of Vain<g ref="char:EOLhyphen"/>glory ſhould come in thereat. Our ſe<g ref="char:EOLhyphen"/>cret ſeeking of God ſhould not be open or viſible to any elſe but God. 'Tis true, when <hi>Daniel</hi> prayed, <hi>he ſee his window open,</hi> but it was to ſhew his Faith (as one obſerves) not his pride.</p>
+            <p>Some may ſay, This Rule doth not reach us; we have no variety of Rooms to retire into; poor people and ſer<g ref="char:EOLhyphen"/>vants, and ſuch like, will be ready to ſay, as it is in the Proverb, We have <hi>Hobſons</hi> choice.</p>
+            <p>But to ſuch I would reply, Is there no garden, nor grove, nor field, near you, into which you may with-draw? Why cannot you with <hi>Iſaac,</hi> go forth at even<g ref="char:EOLhyphen"/>tide, or in the morning to meditate and to pray?
+<note n="x" place="margin">
+                  <hi>V.</hi> Lu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 5.16 &amp; 6.12. &amp; 22.41. Matt. 14.23.</note> Read what Chriſt did, <hi>Mark.</hi> 1.35. and ſurely tis record<g ref="char:EOLhyphen"/>ed for our imitation, tis ſaid, <hi>That in the morning a great while before day he
+<pb n="40" facs="tcp:96400:23" rendition="simple:additions"/>aroſe and departed into a ſolitary place to pray.</hi>
+            </p>
+            <p n="3">3 It may conduce to the quickning of thee to uſe thy voice in ſecret Pray<g ref="char:EOLhyphen"/>er. Not that God is taken with words, a few ſincere ſighs from the heart do more affect him then the moſt Rheto<g ref="char:EOLhyphen"/>ricall expreſſions of the tongue. But though words do not move God in Prayer, yet experience teacheth, they ſometime move him that prayes. The Church ſays in the Lamentations, that her eye did affect her heart: the ſame can many a Chriſtian ſay of his
+<note n="y" place="margin">
+                  <p>
+                     <hi>Verbis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us eſt in<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>r oran<g ref="char:EOLhyphen"/>dum ad excitaudos nos alio<g ref="char:EOLhyphen"/>quin Deus verbis non indiget.</hi> Aretius.</p>
+                  <p>
+                     <hi>Vox interdum non abſque fructu 'adhibetur quoniam in precibus nonnunquam langue cimus, &amp; animus ipſe deſa<g ref="char:EOLhyphen"/>tigatur; unde vor interpoſita nos excitat, &amp; quodammodo reſicit. Pet. Mart. loci communes. Claſ.</hi> 3. <hi>cap.</hi> 13.</p>
+               </note> tongue; that it ſerves to affect and quicken his heart in this duty.</p>
+            <p>Here I had need to give this cauti<g ref="char:EOLhyphen"/>on; That as Chriſtians ſhould not pray to be ſeen of men, ſo they ſhould not ſpeak in Prayer to be heard of men: If ſuch are not Hypocrites, yet they will hardly eſcape the cenſure of Hy<g ref="char:EOLhyphen"/>pocrifie.</p>
+            <p>Theſe ten are the principal helps and directions (according to the know<g ref="char:EOLhyphen"/>ledge
+<pb n="41" facs="tcp:96400:23" rendition="simple:additions"/>and experience that I have) for the lively performance of this great duty of ſecret Prayer: I might offer more, but that I have already exceeded the ordinary limits of a Letter. Onely remember this, to be thorowly ſenfi<g ref="char:EOLhyphen"/>ble of thoſe things for which thou ma<g ref="char:EOLhyphen"/>keſt thy prayer unto God. This alone may quicken thee. How affectionate<g ref="char:EOLhyphen"/>ly do they ask an almes, who ſee they muſt ſtarve without it? Deadneſs in Prayer ariſeth from want of a deep ſence of thy wants.</p>
+            <p>Remember alſo to ſet their exam<g ref="char:EOLhyphen"/>ples before your eyes, who have per<g ref="char:EOLhyphen"/>formed this duty with life, enlarge<g ref="char:EOLhyphen"/>ment, and importunity. Think you ſaw <hi>Jacob
+<note n="z" place="margin">G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n 32.24. Hoſ. 12.3.</note> wreſtling with God, and putting forth all his ſtrength in Prayer.</hi> Think you ſaw <hi>Elias</hi> praying earneſtly, and
+<note n="a" place="margin">1 King 18.42.</note> 
+               <hi>putting his face between his knees.</hi> Imagine you ſaw Chriſt groveling upon the ground in the garden,
+<note n="b" place="margin">H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 5.1.</note> 
+               <hi>offering up ſupplications, with ſtrong cryes and tears;</hi> repeating that requeſt again and again,
+<note n="c" place="margin">Mat. 26.34.</note> 
+               <hi>Father, if it be poſſible, let this cup paſs from me:</hi> Call to mind the poor Widdows importunity or impu<g ref="char:EOLhyphen"/>dency, (as the word ſignifies) who
+<pb n="42" facs="tcp:96400:24" rendition="simple:additions"/>would have no nay.
+<note n="d" place="margin">Magis ducimue exempl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s quam prae<g ref="char:EOLhyphen"/>ceptis.</note> Examples ſway with us more ſometimes, then any rules or precepts.</p>
+            <p>If none of all this will help thee, then fall down before God, bewailing thy deadneſs, confeſſing thy ſluggiſh<g ref="char:EOLhyphen"/>neſs: ſay (as they in <hi>Iſiah)
+<note n="e" place="margin">Iſa. 64.7</note> I have not call'd upon God, nor ſtirred up my ſelf to take hold of him.</hi> O how like a dead Dog am I before the Lord! Will the living God accept of ſuch dead duties as mine are? On how juſtly may God be angry with, and ſhut out my Prayers!
+<note n="f" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ui fri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide roga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> docet ne gare.</note> by my cold<g ref="char:EOLhyphen"/>neſs in asking, I even prompt God to deny me.</p>
+            <p>Yea, not onely bemoan, but chide thy ſelf: ſay, Why art thou ſo dead O my Soul, and why art thou ſo ſot<g ref="char:EOLhyphen"/>tiſh within me? Rowſe up thy ſelf
+<note n="g" place="margin">Judg. 5.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> as <hi>'Deborah</hi> did: Say, <hi>Awake, awake, O my ſoul, awake, awake:</hi> Beſpeak thy ſelf, as the Shipmaſter did the Prophet <hi>Jonah;
+<note n="h" place="margin">Jonah. 1.6.</note> What meaneſt thou?</hi> O ſluggard, <hi>ariſe, call upon thy God.</hi>
+            </p>
+            <p>Laſtly, Lift up ſtrong cryes (ming<g ref="char:EOLhyphen"/>led with tears, if thou canſt) unto God, that he would lend his helping hand, as <hi>David</hi> did, <hi>Pſal.</hi> 80.18. <hi>Quicken
+<pb n="43" facs="tcp:96400:24" rendition="simple:additions"/>me, O Lord, to call upon thy Name.</hi> Send thy quickning Spirit unto my heart. How
+<note n="i" place="margin">Ten times</note> oft doth <hi>David</hi> make this requeſt in the 119 Pſalm? ever now and then this requeſt comes in; <hi>Quicken me, O Lord: Quicken me according to thy Word: Quicken me according to thy righteouſneſs: Quick<g ref="char:EOLhyphen"/>en me for thy names ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> &amp;c. 'Tis not a vain repetition, but a plain manife<g ref="char:EOLhyphen"/>ſtation, both of his great need, and of his earneſt deſire of this bleſſing.</p>
+            <p>Thus you ſee how large a Letter I have written to you with mine own hand: If by theſe hints you are any way helped to pray, you are the more obliged to remember him in your Prayers,</p>
+            <closer>
+               <signed>who is <hi>Yours in any Chriſtian Office</hi> R. M.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96400:25" rendition="simple:additions"/>
+            <head>
+               <hi>Books Princed for, and ſold by</hi> Thomas Parkhurſt, <hi>at the</hi> Three Growns <hi>at the lower end of</hi> Cheapſide, <hi>over againſt the great Conduit.</hi>
+            </head>
+            <list>
+               <item>THe Chriſtian mans Calling; or, a Treatiſe of ma<g ref="char:EOLhyphen"/>king Religion ones Buſineſs, wherein the Nature and Neceſſity of it is diſcovered; as alſo the Chriſtian directed how he may perform it, in <hi>Religious Duties, Natural Actions,</hi> his <hi>Particular Vocation,</hi> his <hi>Family Directions,</hi> and h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>own Recreation;</hi> to be read in Fa<g ref="char:EOLhyphen"/>milies for their Inſtruction and Edification. The firſt Part.</item>
+               <item>Likewiſe the ſecond Part of the Chriſtian mans Cal<g ref="char:EOLhyphen"/>ling; directing Chriſtians how to make Religion their Bu<g ref="char:EOLhyphen"/>ſineſs in the Relations of <hi>Husbands, Wives, Parents, Chil<g ref="char:EOLhyphen"/>dren, Maſters, Servants,</hi> in <hi>Proſperity,</hi> in <hi>Adverſity.</hi>
+               </item>
+               <item>The Door of Salvation opened by the Key of Rege<g ref="char:EOLhyphen"/>neration; or a Treatiſe containing the <hi>Nature, Neceſſi<g ref="char:EOLhyphen"/>ty, Marks,</hi> and <hi>Means</hi> of Regeneration, as alſo the Duty of the Regenerate.</item>
+               <item>The Beauty of Magiſtracy, in an Expoſition of the 82 <hi>Pſalm;</hi> where is ſee forth the <hi>Neceſſity, <g ref="char:V">Ʋ</g>tility, Dig<g ref="char:EOLhyphen"/>nity, Duty</hi> and <hi>Mirality</hi> of <hi>Magiſtrates.</hi>
+               </item>
+               <item>The Fading of the Fleſh, and the Flontiſhing of Faith; or, one Caſt for Eternity, with the onely way to throw it well.</item>
+               <item>Heaven and Hell Epitomized, or the true Chriſtian Characterized.</item>
+               <item>There is coming to the Preſs, the Third and laſt Part of the <hi>Chriſtian-mans Calling,</hi> wherein the Chriſtian is directed how to make Relig on his Buſineſs, in his <hi>deal<g ref="char:EOLhyphen"/>ings</hi> with all men, in the <hi>Choice</hi> of his Companions, in his carriage in <hi>Good</hi> Company, in <hi>Bad</hi> Company, in <hi>Solitarineſs</hi> or when he is alone, on a <hi>Week-day,</hi> from morning to night, in <hi>viſiting the Sick,</hi> on a <hi>dying Bed,</hi> as alſo the <hi>Means</hi> how a Chriſtian may do this, and ſome <hi>Motives</hi> to it.</item>
+            </list>
+            <p>All written by <hi>George Swinnock</hi> M. A. late of <hi>Great Kimbol</hi> in <hi>Buckingham-ſhire.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
